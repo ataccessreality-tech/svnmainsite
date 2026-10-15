@@ -1,0 +1,740 @@
+{
+  "_readme": "SINGLE SOURCE OF TRUTH. Status flags: VERIFIED | NEEDS_CLIENT_CONFIRMATION | DO_NOT_PUBLISH. Unknown values are null and never guessed. Edit, then run: python3 build.py",
+  "site": {
+    "url": "https://svnshivajyothigroup.com",
+    "urlStatus": "VERIFIED (client, 3 Oct 2026). Non-www is canonical.",
+    "lastUpdated": "2026-10-15",
+    "ga4Id": "",
+    "enquiryEndpoint": "",
+    "whatsapp": "918599936363",
+    "whatsappStatus": "VERIFIED (client, 4 Oct 2026)",
+    "bingVerification": "",
+    "googleVerification": "",
+    "ogImage": "assets/og/group.jpg",
+    "ogImageStatus": "Dedicated 1200x630 share cards created from supplied visuals",
+    "logo": "assets/img/svn-logo.png",
+    "logoStatus": "NEEDS_CLIENT_CONFIRMATION",
+    "showJournal": false,
+    "journalNote": "Hidden until real articles exist. Set showJournal true to restore the section and nav link.",
+    "launchNote": "External CRM, analytics, official logo and remaining factual/legal confirmations are documented in docs/LAUNCH-CHECKLIST.md.",
+    "ogImages": {
+      "/faq/": "assets/og/faq.jpg",
+      "/resources/": "assets/og/resources.jpg",
+      "/leadership/": "assets/og/leadership.jpg",
+      "/projects/bay-parck/": "assets/og/bay-parck.jpg",
+      "/projects/parckwud/": "assets/og/parckwud.jpg",
+      "/projects/miraya/": "assets/og/miraya.jpg",
+      "/projects/ayodhara/": "assets/og/ayodhara.jpg",
+      "/leadership/venkateswara-rao/": "assets/og/leadership.jpg",
+      "/leadership/shiva-kumar/": "assets/og/leadership.jpg",
+      "/leadership/nithin/": "assets/og/leadership.jpg",
+      "/blog/": "assets/og/blog.jpg",
+      "/blog/three-checks-before-buying-property/": "assets/og/blog-three-checks-before-buying-property.jpg",
+      "/blog/how-to-choose-property-location/": "assets/og/blog-how-to-choose-property-location.jpg",
+      "/blog/encumbrance-certificate-explained/": "assets/og/blog-encumbrance-certificate-explained.jpg",
+      "/blog/layout-approval-rera-registration/": "assets/og/blog-layout-approval-rera-registration.jpg",
+      "/blog/property-budget-beyond-price/": "assets/og/blog-property-budget-beyond-price.jpg",
+      "/blog/plot-site-visit-checklist/": "assets/og/blog-plot-site-visit-checklist.jpg",
+      "/leadership/yashwanth/": "assets/og/leadership.jpg"
+    }
+  },
+  "company": {
+    "officialName": "SVN ShivaJyothi Group",
+    "legalName": null,
+    "legalNameStatus": "INTERNAL ONLY. 'Sri Subhakari Developers' is for agreements and must never be published. No legalName in structured data.",
+    "businessSince": 1971,
+    "realEstateSince": 2003,
+    "founderId": "venkateswara-rao",
+    "address": {
+      "street": "Flat No: 401, Geetha Towers, Kirlampudi Layout, Beach Road",
+      "city": "Visakhapatnam",
+      "state": "Andhra Pradesh",
+      "postalCode": "530017",
+      "country": "IN"
+    },
+    "phone": "+91 85999 36363",
+    "phoneTel": "+918599936363",
+    "email": "info@svnsjd.com",
+    "social": {
+      "instagram": "https://www.instagram.com/svnshivajyothigroup/",
+      "linkedin": null,
+      "youtube": null,
+      "facebook": null,
+      "x": null
+    },
+    "socialStatus": "Instagram supplied by client; other profile URLs pending",
+    "areaServed": [
+      "Visakhapatnam",
+      "Vizianagaram",
+      "Srikakulam",
+      "Kakinada",
+      "Bhogapuram",
+      "North Andhra Pradesh"
+    ],
+    "memberships": [
+      "CREDAI",
+      "NAREDCO"
+    ],
+    "legalNameClientProvided": "SVN Shiva Jyothi Group",
+    "emailProjects": "marketing@svnsjd.com",
+    "offices": [
+      {
+        "name": "Visakhapatnam head office",
+        "street": "Flat No: 401, Geetha Towers, Kirlampudi Layout, Beach Road",
+        "landmark": "Near Ambica Sea Green Hotel",
+        "city": "Visakhapatnam",
+        "postalCode": "530017"
+      },
+      {
+        "name": "Vizianagaram office",
+        "street": "4th Floor, Hotel SVN Lake Palace, LTB Road",
+        "city": "Vizianagaram",
+        "postalCode": "535002"
+      }
+    ],
+    "familyImage": "assets/media/svn-family-portrait.png"
+  },
+  "people": [
+    {
+      "id": "venkateswara-rao",
+      "name": "Gudisa Venkateswara Rao",
+      "display": "Late Gudisa Venkateswara Rao",
+      "role": "Founder",
+      "generation": 1,
+      "generationLabel": "First generation",
+      "bio": [
+        "Lt. Gudisa Venkateswara Rao founded the family enterprise in 1971 in North Andhra Pradesh.",
+        "His emphasis on precision, service, integrity and long-term relationships became the foundation for the generations that followed."
+      ],
+      "responsibilities": [
+        "Founded the family enterprise in 1971"
+      ],
+      "image": "assets/media/founder-portrait-formal-v2.png",
+      "imageStatus": "NEEDS_CLIENT_CONFIRMATION (founder photograph)",
+      "linkedin": null,
+      "education": [],
+      "imageAlt": "Portrait of Late Gudisa Venkateswara Rao, founder of the SVN family enterprise",
+      "imageSource": "Client-supplied founder photograph, edited at client request: formal clothing and studio background, 14 October 2026"
+    },
+    {
+      "id": "shiva-kumar",
+      "name": "Gudisa Shiva Kumar",
+      "display": "Gudisa Shiva Kumar",
+      "role": "Chairman and Managing Director",
+      "generation": 2,
+      "generationLabel": "Second generation",
+      "bio": [
+        "Gudisa Shiva Kumar is the Chairman and Managing Director of SVN ShivaJyothi Group and the second generation of the family enterprise.",
+        "He carried the legacy into real estate in 2003, growing SVN from its early developments into a diversified portfolio spanning layouts, commercial, hospitality and destination projects."
+      ],
+      "responsibilities": [
+        "Leads SVN ShivaJyothi Group as Chairman and Managing Director",
+        "Took the group into real estate in 2003"
+      ],
+      "affiliations": [
+        "APCCIF",
+        "AP Star Hotels Association",
+        "Sarada Seva Sangam",
+        "WE VYSYA"
+      ],
+      "affiliationsStatus": "Client 4 Oct 2026: exact titles not available; organisations only",
+      "image": "assets/media/shiva-kumar-portrait-v2.jpg",
+      "imageAlt": "Portrait of Gudisa Shiva Kumar, Chairman and Managing Director of SVN ShivaJyothi Group",
+      "linkedin": null,
+      "education": [],
+      "roleNote": "Locked to Parckwud Master Fact Sheet (client 4 Oct 2026).",
+      "imageStatus": "Client-supplied replacement, 15 October 2026"
+    },
+    {
+      "id": "nithin",
+      "name": "Gudisa Nithin",
+      "display": "Gudisa Nithin",
+      "role": "Director, Operations",
+      "roleDetail": "Director, Operations, Construction and Real Estate Division",
+      "generation": 3,
+      "generationLabel": "Third generation",
+      "bio": [
+        "Gudisa Nithin is Director, Operations for the Construction and Real Estate Division of SVN ShivaJyothi Group and the third generation of the family enterprise.",
+        "An IIT Madras alumnus with further study at the London School of Economics, he brings a structured, analytical approach to development across multiple districts and is building SVN's next phase of growth."
+      ],
+      "responsibilities": [
+        "Operations for the construction and real estate division",
+        "Development across multiple districts",
+        "The next phase of growth"
+      ],
+      "image": "assets/media/media-07.jpg",
+      "imageAlt": "Portrait of Gudisa Nithin, Director, Operations at SVN ShivaJyothi Group",
+      "linkedin": null,
+      "education": [
+        "Indian Institute of Technology Madras",
+        "London School of Economics"
+      ],
+      "educationStatus": "NEEDS_CLIENT_CONFIRMATION: LinkedIn not found by search; send the profile URL for degrees and years"
+    },
+    {
+      "id": "yashwanth",
+      "name": "Gudisa Yashwanth",
+      "display": "Gudisa Yashwanth",
+      "role": "Hotel Management",
+      "generation": 3,
+      "generationLabel": "Third generation",
+      "focus": "hospitality",
+      "bio": [
+        "Gudisa Yashwanth manages the group’s hotels and represents the third generation of the SVN family enterprise.",
+        "His focus is the day-to-day management of the group’s hospitality operations."
+      ],
+      "responsibilities": [
+        "Management of the group’s hotels",
+        "Day-to-day hospitality operations"
+      ],
+      "image": "assets/media/yashwanth-portrait.jpg",
+      "imageAlt": "Portrait of Gudisa Yashwanth, Hotel Management at SVN ShivaJyothi Group",
+      "imageStatus": "Client supplied, 15 October 2026",
+      "roleNote": "Client confirmed that he is managing hotels, 15 October 2026",
+      "education": [],
+      "linkedin": null,
+      "seoDescription": "Gudisa Yashwanth manages the hotels and hospitality operations of SVN ShivaJyothi Group, representing the third generation of the family enterprise.",
+      "profileLead": "Managing the group’s hotels and hospitality operations."
+    }
+  ],
+  "projects": [
+    {
+      "slug": "bay-parck",
+      "name": "SVN Bay Parck",
+      "fullName": "SVN Bay Parck Beach Resort",
+      "state": "launched",
+      "stateStatus": "VERIFIED",
+      "type": "Coastal beach resort development",
+      "locality": "Jeerupalem, Ranastalam",
+      "district": "Srikakulam",
+      "districtStatus": "VERIFIED (Parckwud fact sheet lists the resort at Ranastalam; 2022 brochure says Srikakulam)",
+      "areaAcres": 45,
+      "areaStatus": "Client 4 Oct 2026: use current site data (45 acres)",
+      "units": null,
+      "since": 2022,
+      "homeDesc": "A forty-five-acre beach resort on the Bay of Bengal, where the shoreline becomes an address.",
+      "homeMeta": "Flagship · Jeerupalem · 45 Acres",
+      "image": "assets/media/media-08.jpg",
+      "imageAlt": "Artistic impression of SVN Bay Parck Beach Resort on the Bay of Bengal",
+      "overview": [
+        "SVN Bay Parck Beach Resort is a forty-five-acre coastal development on the Bay of Bengal at Jeerupalem, Ranastalam, Srikakulam district, Andhra Pradesh, by SVN ShivaJyothi Group.",
+        "It is the group's largest destination to date, begun in 2022."
+      ],
+      "approvals": {
+        "rera": "P01070381701",
+        "reraStatus": "Client instructed 4 Oct 2026 to use the latest data on hand (2022 brochure numbers). Confirm they cover current phases.",
+        "reraUrl": "https://rera.ap.gov.in",
+        "authority": "Srikakulam Urban Development Authority (SUDA)",
+        "other": "SUDA LP No. 31/2020/1178/DTCP/DPMS"
+      },
+      "distances": [],
+      "amenities": [],
+      "faq": [],
+      "brochure": null,
+      "lat": null,
+      "lng": null,
+      "lastUpdated": "2026-10-11",
+      "titleLocality": "Ranastalam",
+      "website": {
+        "label": "Project website",
+        "text": "svnbayparck.com",
+        "url": "https://svnbayparck.com",
+        "live": false,
+        "status": "Existing Bay Parck domain (earlier enquiry email). NEEDS_CLIENT_CONFIRMATION that it is the official project site"
+      }
+    },
+    {
+      "slug": "parckwud",
+      "name": "SVN Parckwud",
+      "fullName": "SVN Parckwud",
+      "state": "launched",
+      "stateStatus": "VERIFIED (client confirmed public, 3 Oct 2026)",
+      "type": "Bali themed villa plots",
+      "locality": "Teppalavalasa",
+      "district": "Srikakulam",
+      "districtStatus": "VERIFIED (Parckwud Master Fact Sheet, 23 Aug 2026)",
+      "areaAcres": 16.09,
+      "areaStatus": "VERIFIED (Master Fact Sheet)",
+      "units": 260,
+      "unitsLabel": "plots",
+      "parksSqFt": "70,000+",
+      "homeDesc": "Bali themed villa plots amidst coconut plantations at Teppalavalasa, Srikakulam district. About 1.5 km from SVN Bay Parck Beach Resort.",
+      "homeMeta": "Bali Themed Villa Plots · Teppalavalasa · 16.09 Acres",
+      "teaserDesc": "Revealing on 12 October 2026. Register your interest to be among the first to see it.",
+      "teaserMeta": "Coming soon",
+      "image": "assets/media/media-04.jpg",
+      "imageAlt": "Artistic impression of SVN Parckwud",
+      "overview": [
+        "SVN Parckwud is a Bali themed villa plot development amidst coconut plantations, by SVN ShivaJyothi Group, at Teppalavalasa and Kotapalem villages, Ranastalam Mandal, Srikakulam district, Andhra Pradesh.",
+        "It spans 16.09 acres with 260 plots and more than 70,000 sq ft of parks, on a layout approved by the Srikakulam Urban Development Authority (SUDA)."
+      ],
+      "approvals": {
+        "rera": "P01070367018",
+        "reraStatus": "VERIFIED (client 4 Oct 2026: issued, P01070367018)",
+        "reraUrl": "https://rera.ap.gov.in",
+        "authority": "Srikakulam Urban Development Authority (SUDA)",
+        "other": "SUDA LP No. 4/2026/1178/RNSM/DPMS",
+        "verifyNote": "Verify at <a href=\"https://www.apdpms.ap.gov.in\" target=\"_blank\" rel=\"noopener\">apdpms.ap.gov.in</a> using file number 1178/0001/LP//2026."
+      },
+      "distances": [
+        {
+          "label": "Bhogapuram International Airport",
+          "value": "Approx. 45 km via NH-16. Travel time varies by route and traffic.",
+          "faqQ": "How far is Bhogapuram International Airport from SVN Parckwud?",
+          "faqA": "The supplied project information lists approximately 45 km via NH-16. Verify your route and current airport operating status separately."
+        },
+        {
+          "label": "Chennai to Kolkata Highway",
+          "value": "10 km"
+        },
+        {
+          "label": "Proposed Beach Corridor Road",
+          "value": "Approx. 0.5 km (proposed)"
+        },
+        {
+          "label": "Beach",
+          "value": "Approx. 1 km"
+        },
+        {
+          "label": "SVN Bay Parck Beach Resort",
+          "value": "Approx. 1.5 km"
+        },
+        {
+          "label": "Pydibhimavaram Pharma SEZ",
+          "value": "15 km"
+        },
+        {
+          "label": "Srikakulam city",
+          "value": "30 km"
+        },
+        {
+          "label": "Vizianagaram city",
+          "value": "40 km"
+        },
+        {
+          "label": "Visakhapatnam city",
+          "value": "80 km"
+        }
+      ],
+      "amenities": [
+        "SVN Resort at Parckwud",
+        "More than 70,000 sq ft of parks"
+      ],
+      "faq": [],
+      "brochure": null,
+      "lat": null,
+      "lng": null,
+      "lastUpdated": "2026-10-11",
+      "titleLocality": "Teppalavalasa",
+      "locationLine": "Teppalavalasa and Kotapalem villages, Ranastalam Mandal, Srikakulam district, Andhra Pradesh",
+      "plotSizes": "Approx. 157 to 304 sq yds, majority 167 sq yds",
+      "unitsNote": " (257 villa plots and 3 amenity parcels)",
+      "roads": "13 internal roads: 40 ft (12 m) and 30 ft (9 m) black-top roads",
+      "amenityZones": [
+        {
+          "heading": "SVN Resort at Parckwud",
+          "note": "A group-owned resort facility, upcoming, accessed through the SVN Resorts Membership.",
+          "items": [
+            "Reception and Lounge",
+            "Swimming Pool with wooden sit-out deck and sun loungers",
+            "Fire-Pit Lounge",
+            "Poolside Courtyard Guest Rooms",
+            "Pergola Sit-Out",
+            "Gaming Room",
+            "Small Banquet Hall"
+          ]
+        },
+        {
+          "heading": "Park and layout amenities",
+          "note": "Common areas for plot owners.",
+          "items": [
+            "Water Fountain",
+            "Open-Air Amphitheatre",
+            "Outdoor Fitness Zone",
+            "Children's Play Area",
+            "Tree Courts with circular seating",
+            "Curved Planter Benches",
+            "Manicured Garden Beds",
+            "Park Benches",
+            "Walking and Jogging Pathways",
+            "Lamp-Post Lighting",
+            "Landscaped Green Corridor",
+            "Grand Entrance Arch",
+            "Security Cabin",
+            "Avenue Plantation",
+            "Boundary Wall"
+          ]
+        }
+      ],
+      "infrastructure": [
+        "40 ft and 30 ft black-top roads with splays at all junctions",
+        "Open storm-water drains",
+        "Water supply distribution network",
+        "Electrical supply with street lighting and transformers",
+        "Compound wall with gate",
+        "Avenue plantation along roads and in open spaces",
+        "Plots demarcated with stones and plot numbers marked",
+        "Footpath along the 40 ft entrance road"
+      ],
+      "membership": {
+        "text": "Every plot owner receives a complimentary SVN Resorts Membership: 4 complimentary room nights every year (standard category), valid until 31 March 2029, redeemable across SVN's hospitality properties, including Hotel SVN Lake Palace (Vizianagaram), Hotel SVN Grand (Kakinada) and SVN Bay Parck Beach Resort (Ranastalam).",
+        "footnote": "Terms & conditions apply. Membership is personal to the first purchaser and is not transferable on resale of the plot. Complimentary nights at upcoming properties can be redeemed once the property is operational. Membership valid till 31 March 2029."
+      },
+      "website": {
+        "label": "Project website",
+        "text": "svnparckwud.com",
+        "url": "https://svnparckwud.com",
+        "live": true,
+        "status": "Client confirmed dedicated project website on 11 October 2026. Availability could not be verified by web lookup."
+      }
+    },
+    {
+      "slug": "miraya",
+      "name": "miraya BY SVN",
+      "fullName": "miraya BY SVN",
+      "state": "launched",
+      "stateStatus": "VERIFIED (client confirmed public, 3 Oct 2026)",
+      "type": "Premium plotted community",
+      "locality": "Pedamanapuram, Gajapathinagaram",
+      "district": null,
+      "districtStatus": "Geography inferred (Gajapathinagaram is in Vizianagaram district); NEEDS_CLIENT_CONFIRMATION",
+      "areaAcres": 13,
+      "units": 194,
+      "unitsLabel": "plots",
+      "homeDesc": "194 villa plots across approximately 13 acres at Pedamanapuram, with a Manduva themed landscape.",
+      "homeMeta": "Premium · Pedamanapuram · 13 Acres · 194 Plots",
+      "teaserDesc": "A planned premium community at Pedamanapuram. Register your interest for details.",
+      "teaserMeta": "Coming soon",
+      "image": "assets/media/media-05.jpg",
+      "imageAlt": "Artistic impression of miraya BY SVN",
+      "overview": [
+        "miraya BY SVN is a Manduva themed premium villa plot community by SVN ShivaJyothi Group, with 194 plots across 13 acres at Pedamanapuram, Gajapathinagaram, Andhra Pradesh.",
+        "The project is located at Pedamanapuram on the Vizianagaram-Bobbili Highway."
+      ],
+      "approvals": {
+        "rera": null,
+        "reraStatus": "In process",
+        "other": "BUDA L.P. No. 6/2026/1177/DRU/DPMS"
+      },
+      "distances": [],
+      "amenities": [],
+      "faq": [],
+      "brochure": null,
+      "lat": null,
+      "lng": null,
+      "lastUpdated": "2026-10-11",
+      "areaStatus": "VERIFIED (project banners, Sept 2026)",
+      "titleLocality": "Pedamanapuram",
+      "roads": "Wide black-top roads, 40 ft and 30 ft",
+      "website": {
+        "label": "Project website",
+        "text": "mirayabysvn.com",
+        "url": "https://mirayabysvn.com",
+        "live": true,
+        "status": "Client confirmed dedicated project website on 11 October 2026. Availability could not be verified by web lookup."
+      },
+      "amenityZones": [
+        {
+          "heading": "SVN Resort at miraya BY SVN",
+          "note": "A group-owned, Manduva themed resort facility, upcoming.",
+          "items": [
+            "Swimming Pool with Pergola Lounge",
+            "Sunken Fire-Pit Lounge",
+            "Sports Court"
+          ]
+        },
+        {
+          "heading": "Layout amenities",
+          "note": "Common areas of the layout.",
+          "items": [
+            "Grand Entrance",
+            "Fountain Roundabout",
+            "Amphitheatre",
+            "Buddha Plaza",
+            "Children's Play Area",
+            "Pergola Swing Pavilions",
+            "Avenue Plantation",
+            "Lush Green Surroundings"
+          ]
+        }
+      ],
+      "infrastructure": [
+        "Wide black-top roads, 40 ft and 30 ft",
+        "Electricity and water supply",
+        "Compound wall"
+      ],
+      "_districtPendingValue": "Vizianagaram"
+    },
+    {
+      "slug": "ayodhara",
+      "name": "SVN Ayodhara",
+      "fullName": "SVN Ayodhara",
+      "state": "launched",
+      "stateStatus": "Public (client, 4 Oct 2026). Layout approved by VMRDA. RERA not confirmed.",
+      "type": "Plotted community, joint venture",
+      "locality": "Ramanarayanam",
+      "district": null,
+      "districtStatus": "NEEDS_CLIENT_CONFIRMATION",
+      "areaAcres": null,
+      "units": 36,
+      "unitsLabel": "plots",
+      "homeDesc": "A thirty-six-plot community near Ramanarayanam, with two amenity areas. JV: SVN & Myscape.",
+      "homeMeta": "Community · Ramanarayanam · 36 Plots · JV",
+      "teaserDesc": "A community in Vizianagaram, developed in partnership with Myscape. Register your interest for details.",
+      "teaserMeta": "Coming soon",
+      "image": "assets/media/ayodhara-entrance.jpg",
+      "imageAlt": "Client-supplied artistic impression of the SVN Ayodhara entrance arch",
+      "imageStatus": "Client-supplied project image, 15 October 2026",
+      "overview": [
+        "SVN Ayodhara is a thirty-six-plot community near Ramanarayanam, Andhra Pradesh, with two amenity areas. JV: SVN & Myscape."
+      ],
+      "approvals": {
+        "rera": null,
+        "reraStatus": "NEEDS_CLIENT_CONFIRMATION",
+        "authority": "Visakhapatnam Metropolitan Region Development Authority (VMRDA)",
+        "other": "VMRDA LP No. 83/2026/1167/VMRDA/DPMS",
+        "source": "Ayodhara approved layout plan (Drive: Ayodhara folder)"
+      },
+      "distances": [],
+      "amenities": [],
+      "faq": [],
+      "brochure": null,
+      "lat": null,
+      "lng": null,
+      "lastUpdated": "2026-10-15",
+      "jv": "JV: SVN & Myscape",
+      "jvStatus": "VERIFIED (client 4 Oct 2026: JV between SVN and Myscape)",
+      "unitsStatus": "Client 4 Oct 2026: 36 plots plus 2 amenity areas",
+      "unitsNote": " (plus 2 amenity areas)",
+      "website": {
+        "label": "Project website",
+        "text": "",
+        "url": "",
+        "live": false,
+        "status": "NEEDS_CLIENT_CONFIRMATION: does Ayodhara get its own site?"
+      },
+      "_districtPendingValue": "Vizianagaram"
+    },
+    {
+      "slug": "sapphire",
+      "name": "SVN Sapphire",
+      "fullName": "SVN Sapphire",
+      "state": "draft",
+      "stateStatus": "DO_NOT_PUBLISH (existence and details unconfirmed)",
+      "type": null,
+      "locality": null,
+      "district": null,
+      "areaAcres": null,
+      "units": null,
+      "homeDesc": "",
+      "homeMeta": "",
+      "image": "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=1800&q=80",
+      "imageAlt": "",
+      "overview": [],
+      "approvals": {
+        "rera": null
+      },
+      "distances": [],
+      "amenities": [],
+      "faq": [],
+      "brochure": null,
+      "lastUpdated": "2026-10-11"
+    }
+  ],
+  "locations": [
+    {
+      "slug": "visakhapatnam",
+      "name": "Visakhapatnam",
+      "full": "Visakhapatnam, Andhra Pradesh",
+      "publish": false,
+      "status": "NEEDS_CLIENT_CONFIRMATION (infrastructure facts and sources)"
+    },
+    {
+      "slug": "bhogapuram",
+      "name": "Bhogapuram",
+      "full": "Bhogapuram, Vizianagaram district, Andhra Pradesh",
+      "publish": false,
+      "status": "NEEDS_CLIENT_CONFIRMATION (airport status and sources)"
+    },
+    {
+      "slug": "vizianagaram",
+      "name": "Vizianagaram",
+      "full": "Vizianagaram, Andhra Pradesh",
+      "publish": false,
+      "status": "NEEDS_CLIENT_CONFIRMATION"
+    }
+  ],
+  "milestones": [
+    {
+      "year": "1971",
+      "tag": "The Beginning",
+      "title": "The family enterprise is founded",
+      "description": "Lt. G. Venkateswara Rao sets down the first foundation of the family enterprise in North Andhra.",
+      "image": "assets/img/milestone-00.svg",
+      "imageVerified": false,
+      "major": true
+    },
+    {
+      "year": "1983",
+      "tag": "First Venture",
+      "title": "SVN Color Lab",
+      "description": "The family name enters trade, building a reputation for precision and service.",
+      "image": "assets/img/milestone-01.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2003",
+      "tag": "The Real-Estate Chapter",
+      "title": "SVN ShivaJyothi Group · SVN Nagar",
+      "description": "The group formally enters real estate. SVN Nagar, a twenty-five-acre layout, carries the family name onto the map.",
+      "image": "assets/img/milestone-02.svg",
+      "imageVerified": false,
+      "major": true
+    },
+    {
+      "year": "2005",
+      "tag": "Devotion",
+      "title": "Gnana Saraswathi Devi Temple",
+      "description": "A temple commission; the group builds for the community, not only the market.",
+      "image": "assets/img/milestone-03.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2006",
+      "tag": "Residential",
+      "title": "Shivajyothi Enclave · 20 Flats",
+      "description": "An early residential enclave deepens the housing portfolio.",
+      "image": "assets/img/milestone-04.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2007",
+      "tag": "Hospitality",
+      "title": "Hotel SVN Lake Palace",
+      "description": "The group enters hospitality, extending the SVN name to leisure.",
+      "image": "assets/img/milestone-05.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2008",
+      "tag": "Residential",
+      "title": "Sirisha Towers · 20 Flats",
+      "description": "A residential tower rises as the corridor densifies.",
+      "image": "assets/img/milestone-06.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2009",
+      "tag": "Devotion",
+      "title": "Dwadasa Jyotirlinga Temple",
+      "description": "A second temple, reinforcing the family’s civic and spiritual commitments.",
+      "image": "assets/img/milestone-07.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2010",
+      "tag": "Layout · 8 Acres",
+      "title": "Kasturi Nagar",
+      "description": "An eight-acre layout expands the residential footprint.",
+      "image": "assets/img/milestone-08.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2013",
+      "tag": "Hospitality · Kakinada",
+      "title": "Hotel SVN Grand",
+      "description": "A grand hotel in Kakinada widens the group’s hospitality reach.",
+      "image": "assets/img/milestone-09.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2013",
+      "tag": "Commercial",
+      "title": "Pasupathi Plaza",
+      "description": "The group moves into commercial development.",
+      "image": "assets/img/milestone-10.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2014",
+      "tag": "Residential · 70 Flats",
+      "title": "Pasupathi Avishkar",
+      "description": "Seventy flats; the residential portfolio reaches new scale.",
+      "image": "assets/img/milestone-11.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2015",
+      "tag": "Layout · 16 Acres",
+      "title": "Pasupathi Nagar",
+      "description": "A sixteen-acre layout, one of the group’s largest to date.",
+      "image": "assets/img/milestone-12.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2016",
+      "tag": "Layout · 2 Acres",
+      "title": "Lakshmi Ganapathi Nagar",
+      "description": "A compact, considered layout continues the corridor’s growth.",
+      "image": "assets/img/milestone-13.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2019",
+      "tag": "Layout · 3 Acres",
+      "title": "SVN 83° East",
+      "description": "A three-acre layout named for its coordinate on the coast.",
+      "image": "assets/img/milestone-14.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2020",
+      "tag": "Layout · 5 Acres",
+      "title": "SVN Goldcrest",
+      "description": "A five-acre layout adds to the growing corridor portfolio.",
+      "image": "assets/img/milestone-15.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2022",
+      "tag": "The Coastal Destination",
+      "title": "SVN Bay Parck Beach Resort",
+      "description": "Forty-five acres on the Bay of Bengal. The flagship, and the group’s largest destination yet.",
+      "image": "assets/img/milestone-16.svg",
+      "imageVerified": false,
+      "major": true
+    },
+    {
+      "year": "2025",
+      "tag": "Diversification",
+      "title": "Swadya Gourmet Catering",
+      "description": "The family name enters gourmet catering.",
+      "image": "assets/img/milestone-17.svg",
+      "imageVerified": false,
+      "major": false
+    },
+    {
+      "year": "2026",
+      "tag": "The Next Chapter",
+      "title": "SVN Parckwud, miraya BY SVN and Ayodhara",
+      "description": "Three new communities join SVN Bay Parck, carrying the family name along the Visakhapatnam and Bhogapuram corridor.",
+      "image": "assets/img/milestone-18.svg",
+      "imageVerified": false,
+      "major": true
+    }
+  ]
+}

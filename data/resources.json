@@ -1,0 +1,26 @@
+[
+  {
+    "id": "three-checks",
+    "category": "Start here",
+    "title": "Before You Buy: Three Checks That Matter",
+    "description": "Ownership, approvals and practical fit - a simple decision process with a document tracker and pre-payment checklist.",
+    "filename": "before-you-buy-three-checks.pdf",
+    "pages": 5
+  },
+  {
+    "id": "location-handbook",
+    "category": "Location",
+    "title": "Choosing a Location That Works for You",
+    "description": "Compare real travel times, access, services and site conditions using a printable location scorecard.",
+    "filename": "choosing-the-right-location.pdf",
+    "pages": 5
+  },
+  {
+    "id": "land-documents",
+    "category": "Documents",
+    "title": "Land Documents, Explained",
+    "description": "Understand deeds, ECs, revenue records, approvals and seller authority, with a checklist for your professional review.",
+    "filename": "land-documents-explained.pdf",
+    "pages": 5
+  }
+]
