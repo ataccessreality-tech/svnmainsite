@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://svnparckwud.com/#website",
+   "url": "https://svnparckwud.com/",
+   "name": "SVN Parckwud",
+   "publisher": {
+    "@id": "https://svnshivajyothigroup.com/#organization"
+   }
+  },
+  {
+   "@type": "Place",
+   "@id": "https://svnparckwud.com/#place",
+   "name": "SVN Parckwud",
+   "url": "https://svnparckwud.com/",
+   "sameAs": [
+    "https://svnshivajyothigroup.com/projects/parckwud/"
+   ],
+   "description": "SVN Parckwud is a Bali themed villa plot development amidst coconut plantations, by SVN ShivaJyothi Group, at Teppalavalasa and Kotapalem villages, Ranastalam Mandal, Srikakulam district, Andhra Pradesh. It spans 16.09 acres with 260 plots and more than 70,000 sq ft of parks, on a layout approved by the Srikakulam Urban Development Authority (SUDA).",
+   "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Teppalavalasa",
+    "addressRegion": "Andhra Pradesh",
+    "addressCountry": "IN"
+   },
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Developer",
+     "value": "SVN ShivaJyothi Group"
+    }
+   ]
+  },
+  {
+   "@type": "Organization",
+   "@id": "https://svnshivajyothigroup.com/#organization",
+   "name": "SVN ShivaJyothi Group",
+   "url": "https://svnshivajyothigroup.com/"
+  }
+ ]
+}

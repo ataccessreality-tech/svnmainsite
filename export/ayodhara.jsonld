@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://PROJECT-DOMAIN.TLD/#website",
+   "url": "https://PROJECT-DOMAIN.TLD/",
+   "name": "SVN Ayodhara",
+   "publisher": {
+    "@id": "https://svnshivajyothigroup.com/#organization"
+   }
+  },
+  {
+   "@type": "Place",
+   "@id": "https://PROJECT-DOMAIN.TLD/#place",
+   "name": "SVN Ayodhara",
+   "url": "https://PROJECT-DOMAIN.TLD/",
+   "sameAs": [
+    "https://svnshivajyothigroup.com/projects/ayodhara/"
+   ],
+   "description": "SVN Ayodhara is a thirty-six-plot community near Ramanarayanam, Andhra Pradesh, with two amenity areas. JV: SVN & Myscape.",
+   "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Ramanarayanam",
+    "addressRegion": "Andhra Pradesh",
+    "addressCountry": "IN"
+   },
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Developer",
+     "value": "JV: SVN & Myscape"
+    }
+   ]
+  },
+  {
+   "@type": "Organization",
+   "@id": "https://svnshivajyothigroup.com/#organization",
+   "name": "SVN ShivaJyothi Group",
+   "url": "https://svnshivajyothigroup.com/"
+  }
+ ]
+}

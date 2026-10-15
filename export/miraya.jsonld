@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://mirayabysvn.com/#website",
+   "url": "https://mirayabysvn.com/",
+   "name": "miraya BY SVN",
+   "publisher": {
+    "@id": "https://svnshivajyothigroup.com/#organization"
+   }
+  },
+  {
+   "@type": "Place",
+   "@id": "https://mirayabysvn.com/#place",
+   "name": "miraya BY SVN",
+   "url": "https://mirayabysvn.com/",
+   "sameAs": [
+    "https://svnshivajyothigroup.com/projects/miraya/"
+   ],
+   "description": "miraya BY SVN is a Manduva themed premium villa plot community by SVN ShivaJyothi Group, with 194 plots across 13 acres at Pedamanapuram, Gajapathinagaram, Andhra Pradesh. The project is located at Pedamanapuram on the Vizianagaram-Bobbili Highway.",
+   "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Pedamanapuram, Gajapathinagaram",
+    "addressRegion": "Andhra Pradesh",
+    "addressCountry": "IN"
+   },
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Developer",
+     "value": "SVN ShivaJyothi Group"
+    }
+   ]
+  },
+  {
+   "@type": "Organization",
+   "@id": "https://svnshivajyothigroup.com/#organization",
+   "name": "SVN ShivaJyothi Group",
+   "url": "https://svnshivajyothigroup.com/"
+  }
+ ]
+}

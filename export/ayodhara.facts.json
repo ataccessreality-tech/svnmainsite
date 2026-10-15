@@ -1,0 +1,52 @@
+{
+ "slug": "ayodhara",
+ "name": "SVN Ayodhara",
+ "fullName": "SVN Ayodhara",
+ "type": "Plotted community, joint venture",
+ "locality": "Ramanarayanam",
+ "district": null,
+ "locationLine": null,
+ "areaAcres": null,
+ "units": 36,
+ "unitsNote": " (plus 2 amenity areas)",
+ "plotSizes": null,
+ "parksSqFt": null,
+ "roads": null,
+ "distances": [],
+ "amenityZones": null,
+ "infrastructure": null,
+ "membership": null,
+ "jv": "JV: SVN & Myscape",
+ "overview": [
+  "SVN Ayodhara is a thirty-six-plot community near Ramanarayanam, Andhra Pradesh, with two amenity areas. JV: SVN & Myscape."
+ ],
+ "imageAlt": "Client-supplied artistic impression of the SVN Ayodhara entrance arch",
+ "approvals": {
+  "authority": "Visakhapatnam Metropolitan Region Development Authority (VMRDA)",
+  "other": "VMRDA LP No. 83/2026/1167/VMRDA/DPMS"
+ },
+ "groupPage": "https://svnshivajyothigroup.com/projects/ayodhara/",
+ "developer": {
+  "name": "SVN ShivaJyothi Group",
+  "url": "https://svnshivajyothigroup.com/",
+  "organizationId": "https://svnshivajyothigroup.com/#organization",
+  "address": "Flat No: 401, Geetha Towers, Kirlampudi Layout, Beach Road, Visakhapatnam 530017, Andhra Pradesh",
+  "phone": "+91 85999 36363",
+  "email": "info@svnsjd.com",
+  "offices": [
+   {
+    "name": "Visakhapatnam head office",
+    "street": "Flat No: 401, Geetha Towers, Kirlampudi Layout, Beach Road",
+    "landmark": "Near Ambica Sea Green Hotel",
+    "city": "Visakhapatnam",
+    "postalCode": "530017"
+   },
+   {
+    "name": "Vizianagaram office",
+    "street": "4th Floor, Hotel SVN Lake Palace, LTB Road",
+    "city": "Vizianagaram",
+    "postalCode": "535002"
+   }
+  ]
+ }
+}

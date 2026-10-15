@@ -1,0 +1,142 @@
+{
+ "slug": "parckwud",
+ "name": "SVN Parckwud",
+ "fullName": "SVN Parckwud",
+ "type": "Bali themed villa plots",
+ "locality": "Teppalavalasa",
+ "district": "Srikakulam",
+ "locationLine": "Teppalavalasa and Kotapalem villages, Ranastalam Mandal, Srikakulam district, Andhra Pradesh",
+ "areaAcres": 16.09,
+ "units": 260,
+ "unitsNote": " (257 villa plots and 3 amenity parcels)",
+ "plotSizes": "Approx. 157 to 304 sq yds, majority 167 sq yds",
+ "parksSqFt": "70,000+",
+ "roads": "13 internal roads: 40 ft (12 m) and 30 ft (9 m) black-top roads",
+ "distances": [
+  {
+   "label": "Bhogapuram International Airport",
+   "value": "Approx. 45 km via NH-16. Travel time varies by route and traffic.",
+   "faqQ": "How far is Bhogapuram International Airport from SVN Parckwud?",
+   "faqA": "The supplied project information lists approximately 45 km via NH-16. Verify your route and current airport operating status separately."
+  },
+  {
+   "label": "Chennai to Kolkata Highway",
+   "value": "10 km"
+  },
+  {
+   "label": "Proposed Beach Corridor Road",
+   "value": "Approx. 0.5 km (proposed)"
+  },
+  {
+   "label": "Beach",
+   "value": "Approx. 1 km"
+  },
+  {
+   "label": "SVN Bay Parck Beach Resort",
+   "value": "Approx. 1.5 km"
+  },
+  {
+   "label": "Pydibhimavaram Pharma SEZ",
+   "value": "15 km"
+  },
+  {
+   "label": "Srikakulam city",
+   "value": "30 km"
+  },
+  {
+   "label": "Vizianagaram city",
+   "value": "40 km"
+  },
+  {
+   "label": "Visakhapatnam city",
+   "value": "80 km"
+  }
+ ],
+ "amenityZones": [
+  {
+   "heading": "SVN Resort at Parckwud",
+   "note": "A group-owned resort facility, upcoming, accessed through the SVN Resorts Membership.",
+   "items": [
+    "Reception and Lounge",
+    "Swimming Pool with wooden sit-out deck and sun loungers",
+    "Fire-Pit Lounge",
+    "Poolside Courtyard Guest Rooms",
+    "Pergola Sit-Out",
+    "Gaming Room",
+    "Small Banquet Hall"
+   ]
+  },
+  {
+   "heading": "Park and layout amenities",
+   "note": "Common areas for plot owners.",
+   "items": [
+    "Water Fountain",
+    "Open-Air Amphitheatre",
+    "Outdoor Fitness Zone",
+    "Children's Play Area",
+    "Tree Courts with circular seating",
+    "Curved Planter Benches",
+    "Manicured Garden Beds",
+    "Park Benches",
+    "Walking and Jogging Pathways",
+    "Lamp-Post Lighting",
+    "Landscaped Green Corridor",
+    "Grand Entrance Arch",
+    "Security Cabin",
+    "Avenue Plantation",
+    "Boundary Wall"
+   ]
+  }
+ ],
+ "infrastructure": [
+  "40 ft and 30 ft black-top roads with splays at all junctions",
+  "Open storm-water drains",
+  "Water supply distribution network",
+  "Electrical supply with street lighting and transformers",
+  "Compound wall with gate",
+  "Avenue plantation along roads and in open spaces",
+  "Plots demarcated with stones and plot numbers marked",
+  "Footpath along the 40 ft entrance road"
+ ],
+ "membership": {
+  "text": "Every plot owner receives a complimentary SVN Resorts Membership: 4 complimentary room nights every year (standard category), valid until 31 March 2029, redeemable across SVN's hospitality properties, including Hotel SVN Lake Palace (Vizianagaram), Hotel SVN Grand (Kakinada) and SVN Bay Parck Beach Resort (Ranastalam).",
+  "footnote": "Terms & conditions apply. Membership is personal to the first purchaser and is not transferable on resale of the plot. Complimentary nights at upcoming properties can be redeemed once the property is operational. Membership valid till 31 March 2029."
+ },
+ "jv": null,
+ "overview": [
+  "SVN Parckwud is a Bali themed villa plot development amidst coconut plantations, by SVN ShivaJyothi Group, at Teppalavalasa and Kotapalem villages, Ranastalam Mandal, Srikakulam district, Andhra Pradesh.",
+  "It spans 16.09 acres with 260 plots and more than 70,000 sq ft of parks, on a layout approved by the Srikakulam Urban Development Authority (SUDA)."
+ ],
+ "imageAlt": "Artistic impression of SVN Parckwud",
+ "approvals": {
+  "rera": "P01070367018",
+  "reraUrl": "https://rera.ap.gov.in",
+  "authority": "Srikakulam Urban Development Authority (SUDA)",
+  "other": "SUDA LP No. 4/2026/1178/RNSM/DPMS",
+  "verifyNote": "Verify at <a href=\"https://www.apdpms.ap.gov.in\" target=\"_blank\" rel=\"noopener\">apdpms.ap.gov.in</a> using file number 1178/0001/LP//2026."
+ },
+ "groupPage": "https://svnshivajyothigroup.com/projects/parckwud/",
+ "developer": {
+  "name": "SVN ShivaJyothi Group",
+  "url": "https://svnshivajyothigroup.com/",
+  "organizationId": "https://svnshivajyothigroup.com/#organization",
+  "address": "Flat No: 401, Geetha Towers, Kirlampudi Layout, Beach Road, Visakhapatnam 530017, Andhra Pradesh",
+  "phone": "+91 85999 36363",
+  "email": "info@svnsjd.com",
+  "offices": [
+   {
+    "name": "Visakhapatnam head office",
+    "street": "Flat No: 401, Geetha Towers, Kirlampudi Layout, Beach Road",
+    "landmark": "Near Ambica Sea Green Hotel",
+    "city": "Visakhapatnam",
+    "postalCode": "530017"
+   },
+   {
+    "name": "Vizianagaram office",
+    "street": "4th Floor, Hotel SVN Lake Palace, LTB Road",
+    "city": "Vizianagaram",
+    "postalCode": "535002"
+   }
+  ]
+ }
+}

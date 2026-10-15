@@ -1,0 +1,43 @@
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "WebSite",
+   "@id": "https://svnbayparck.com/#website",
+   "url": "https://svnbayparck.com/",
+   "name": "SVN Bay Parck Beach Resort",
+   "publisher": {
+    "@id": "https://svnshivajyothigroup.com/#organization"
+   }
+  },
+  {
+   "@type": "Place",
+   "@id": "https://svnbayparck.com/#place",
+   "name": "SVN Bay Parck Beach Resort",
+   "url": "https://svnbayparck.com/",
+   "sameAs": [
+    "https://svnshivajyothigroup.com/projects/bay-parck/"
+   ],
+   "description": "SVN Bay Parck Beach Resort is a forty-five-acre coastal development on the Bay of Bengal at Jeerupalem, Ranastalam, Srikakulam district, Andhra Pradesh, by SVN ShivaJyothi Group. It is the group's largest destination to date, begun in 2022.",
+   "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Jeerupalem, Ranastalam",
+    "addressRegion": "Andhra Pradesh",
+    "addressCountry": "IN"
+   },
+   "additionalProperty": [
+    {
+     "@type": "PropertyValue",
+     "name": "Developer",
+     "value": "SVN ShivaJyothi Group"
+    }
+   ]
+  },
+  {
+   "@type": "Organization",
+   "@id": "https://svnshivajyothigroup.com/#organization",
+   "name": "SVN ShivaJyothi Group",
+   "url": "https://svnshivajyothigroup.com/"
+  }
+ ]
+}

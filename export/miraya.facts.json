@@ -1,0 +1,80 @@
+{
+ "slug": "miraya",
+ "name": "miraya BY SVN",
+ "fullName": "miraya BY SVN",
+ "type": "Premium plotted community",
+ "locality": "Pedamanapuram, Gajapathinagaram",
+ "district": null,
+ "locationLine": null,
+ "areaAcres": 13,
+ "units": 194,
+ "unitsNote": null,
+ "plotSizes": null,
+ "parksSqFt": null,
+ "roads": "Wide black-top roads, 40 ft and 30 ft",
+ "distances": [],
+ "amenityZones": [
+  {
+   "heading": "SVN Resort at miraya BY SVN",
+   "note": "A group-owned, Manduva themed resort facility, upcoming.",
+   "items": [
+    "Swimming Pool with Pergola Lounge",
+    "Sunken Fire-Pit Lounge",
+    "Sports Court"
+   ]
+  },
+  {
+   "heading": "Layout amenities",
+   "note": "Common areas of the layout.",
+   "items": [
+    "Grand Entrance",
+    "Fountain Roundabout",
+    "Amphitheatre",
+    "Buddha Plaza",
+    "Children's Play Area",
+    "Pergola Swing Pavilions",
+    "Avenue Plantation",
+    "Lush Green Surroundings"
+   ]
+  }
+ ],
+ "infrastructure": [
+  "Wide black-top roads, 40 ft and 30 ft",
+  "Electricity and water supply",
+  "Compound wall"
+ ],
+ "membership": null,
+ "jv": null,
+ "overview": [
+  "miraya BY SVN is a Manduva themed premium villa plot community by SVN ShivaJyothi Group, with 194 plots across 13 acres at Pedamanapuram, Gajapathinagaram, Andhra Pradesh.",
+  "The project is located at Pedamanapuram on the Vizianagaram-Bobbili Highway."
+ ],
+ "imageAlt": "Artistic impression of miraya BY SVN",
+ "approvals": {
+  "other": "BUDA L.P. No. 6/2026/1177/DRU/DPMS"
+ },
+ "groupPage": "https://svnshivajyothigroup.com/projects/miraya/",
+ "developer": {
+  "name": "SVN ShivaJyothi Group",
+  "url": "https://svnshivajyothigroup.com/",
+  "organizationId": "https://svnshivajyothigroup.com/#organization",
+  "address": "Flat No: 401, Geetha Towers, Kirlampudi Layout, Beach Road, Visakhapatnam 530017, Andhra Pradesh",
+  "phone": "+91 85999 36363",
+  "email": "info@svnsjd.com",
+  "offices": [
+   {
+    "name": "Visakhapatnam head office",
+    "street": "Flat No: 401, Geetha Towers, Kirlampudi Layout, Beach Road",
+    "landmark": "Near Ambica Sea Green Hotel",
+    "city": "Visakhapatnam",
+    "postalCode": "530017"
+   },
+   {
+    "name": "Vizianagaram office",
+    "street": "4th Floor, Hotel SVN Lake Palace, LTB Road",
+    "city": "Vizianagaram",
+    "postalCode": "535002"
+   }
+  ]
+ }
+}

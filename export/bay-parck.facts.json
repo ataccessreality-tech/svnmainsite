@@ -1,0 +1,55 @@
+{
+ "slug": "bay-parck",
+ "name": "SVN Bay Parck",
+ "fullName": "SVN Bay Parck Beach Resort",
+ "type": "Coastal beach resort development",
+ "locality": "Jeerupalem, Ranastalam",
+ "district": "Srikakulam",
+ "locationLine": null,
+ "areaAcres": 45,
+ "units": null,
+ "unitsNote": null,
+ "plotSizes": null,
+ "parksSqFt": null,
+ "roads": null,
+ "distances": [],
+ "amenityZones": null,
+ "infrastructure": null,
+ "membership": null,
+ "jv": null,
+ "overview": [
+  "SVN Bay Parck Beach Resort is a forty-five-acre coastal development on the Bay of Bengal at Jeerupalem, Ranastalam, Srikakulam district, Andhra Pradesh, by SVN ShivaJyothi Group.",
+  "It is the group's largest destination to date, begun in 2022."
+ ],
+ "imageAlt": "Artistic impression of SVN Bay Parck Beach Resort on the Bay of Bengal",
+ "approvals": {
+  "rera": "P01070381701",
+  "reraUrl": "https://rera.ap.gov.in",
+  "authority": "Srikakulam Urban Development Authority (SUDA)",
+  "other": "SUDA LP No. 31/2020/1178/DTCP/DPMS"
+ },
+ "groupPage": "https://svnshivajyothigroup.com/projects/bay-parck/",
+ "developer": {
+  "name": "SVN ShivaJyothi Group",
+  "url": "https://svnshivajyothigroup.com/",
+  "organizationId": "https://svnshivajyothigroup.com/#organization",
+  "address": "Flat No: 401, Geetha Towers, Kirlampudi Layout, Beach Road, Visakhapatnam 530017, Andhra Pradesh",
+  "phone": "+91 85999 36363",
+  "email": "info@svnsjd.com",
+  "offices": [
+   {
+    "name": "Visakhapatnam head office",
+    "street": "Flat No: 401, Geetha Towers, Kirlampudi Layout, Beach Road",
+    "landmark": "Near Ambica Sea Green Hotel",
+    "city": "Visakhapatnam",
+    "postalCode": "530017"
+   },
+   {
+    "name": "Vizianagaram office",
+    "street": "4th Floor, Hotel SVN Lake Palace, LTB Road",
+    "city": "Vizianagaram",
+    "postalCode": "535002"
+   }
+  ]
+ }
+}
